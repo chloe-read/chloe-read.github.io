@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chloe-read.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/chloe-read.github.io/static/js/main.d1226042.js",
+    "index.html": "/chloe-read.github.io/index.html",
+    "main.f855e6bc.css.map": "/chloe-read.github.io/static/css/main.f855e6bc.css.map",
+    "main.d1226042.js.map": "/chloe-read.github.io/static/js/main.d1226042.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d1226042.js"
+  ]
+}
